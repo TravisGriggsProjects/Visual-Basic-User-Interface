@@ -1,0 +1,90 @@
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\App.xbf
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\MainPage.xbf
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.xr.xml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.exe
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.pdb
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\resources.pri
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\AppxManifest.xml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Core\CarSalesV2_TravisGriggs.exe
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.build.appxrecipe
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\System.Runtime.dll
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.AssemblyReference.cache
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.g.i.cs
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.g.cs
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.g.cs
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.xaml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.xaml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.xbf
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.xbf
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.CoreCompileInputs.cache
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.CopyComplete
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.exe
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.pdb
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\priconfig.xml
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\resources.resfiles
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\pri.resfiles
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\qualifiers.txt
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tgrig\source\repos\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638315992480000000.json
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\App.xbf
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\MainPage.xbf
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.xr.xml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.exe
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.pdb
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\resources.pri
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\AppxManifest.xml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Core\AppxManifest.xml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Core\CarSalesV2_TravisGriggs.exe
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\CarSalesV2_TravisGriggs.build.appxrecipe
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\System.Runtime.dll
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.AssemblyReference.cache
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.g.i.cs
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.g.cs
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.g.i.cs
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.g.cs
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.xaml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.xaml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\App.xbf
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MainPage.xbf
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.CoreCompileInputs.cache
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.csproj.CopyComplete
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.exe
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\CarSalesV2_TravisGriggs.pdb
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\ResourceHandlingTask.state
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\priconfig.xml
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\priconfig.xml.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\filtered.layout.resfiles
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\excluded.layout.resfiles
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\resources.resfiles
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\resources.resfiles.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\pri.resfiles
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\pri.resfiles.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\qualifiers.txt
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\ProjectArchitectures.txt
+C:\Programing\User Interface\CarSalesV2\CarSalesV2_TravisGriggs\CarSalesV2_TravisGriggs\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638315992480000000.json
